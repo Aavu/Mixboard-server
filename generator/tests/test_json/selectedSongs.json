@@ -1,0 +1,54 @@
+{
+  "0VjIjW4GlUZAMYd2vXMi3b": {
+    "playlist_name": "Nat",
+    "song_id": "0VjIjW4GlUZAMYd2vXMi3b",
+    "song_name": "BlindingLights",
+    "artist_name": "The Weeknd",
+    "preview_url": null,
+    "img_url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "release_date": "2020-03-20",
+    "hover_on_album": false,
+    "isPlaying": false,
+    "color": "#98c1d9",
+    "class": "grid-item-song0"
+  },
+  "7ul0wYKeeINO2JBlhA5PtN": {
+    "playlist_name": "Nat",
+    "song_id": "7ul0wYKeeINO2JBlhA5PtN",
+    "song_name": "Compulsion",
+    "artist_name": "Pyro",
+    "preview_url": "https://p.scdn.co/mp3-preview/6b5f792a961b415fe711d3b73d04be44ef7827f5?cid=9cc782e618e04cfbbb447abe7d1d4902",
+    "img_url": "https://i.scdn.co/image/ab67616d0000b2733e8cd1a0e556e1ca66355534",
+    "release_date": "2021-06-04",
+    "hover_on_album": false,
+    "isPlaying": false,
+    "color": "#ee6c4d",
+    "class": "grid-item-song1"
+  },
+  "2Fxmhks0bxGSBdJ92vM42m": {
+    "playlist_name": "Nat",
+    "song_id": "2Fxmhks0bxGSBdJ92vM42m",
+    "song_name": "BadGuy",
+    "artist_name": "Billie Eilish",
+    "preview_url": null,
+    "img_url": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "release_date": "2019-03-29",
+    "hover_on_album": false,
+    "isPlaying": false,
+    "color": "#293241",
+    "class": "grid-item-song2"
+  },
+  "5OsdVCiWEsi01xRpMObaIg": {
+    "playlist_name": "Nat",
+    "song_id": "5OsdVCiWEsi01xRpMObaIg",
+    "song_name": "EdenWasAGarden",
+    "artist_name": "Roman Candle",
+    "preview_url": "https://p.scdn.co/mp3-preview/a1a59a366f312dd272d542544ebee22e41c9a8be?cid=9cc782e618e04cfbbb447abe7d1d4902",
+    "img_url": "https://i.scdn.co/image/ab67616d0000b273b343ce2225ac5c677b3fe6a1",
+    "release_date": "2009-05-12",
+    "hover_on_album": false,
+    "isPlaying": false,
+    "color": "3d6a80",
+    "class": "grid-item-song3"
+  }
+}
